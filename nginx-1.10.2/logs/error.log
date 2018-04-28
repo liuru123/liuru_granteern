@@ -1,0 +1,82 @@
+2018/04/09 15:14:56 [error] 9188#12300: *1 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "www.imooc.com", referrer: "http://www.imooc.com/"
+2018/04/09 15:15:05 [error] 9188#12300: *3 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/04/09 15:45:55 [error] 9188#12300: *6 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "image.imooc.com", referrer: "http://image.imooc.com/"
+2018/04/09 15:47:03 [error] 9188#12300: *6 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 15:48:58 [emerg] 7808#11984: unexpected "}" in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:119
+2018/04/09 15:51:35 [emerg] 12580#9688: unexpected "}" in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:119
+2018/04/09 15:51:46 [emerg] 10156#11960: unexpected end of file, expecting ";" or "}" in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:119
+2018/04/09 15:53:21 [emerg] 9596#528: unexpected "}" in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:118
+2018/04/09 15:55:17 [error] 9188#12300: *13 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 15:56:46 [notice] 13160#7924: signal process started
+2018/04/09 15:56:46 [error] 13160#7924: OpenEvent("Global\ngx_reload_12460") failed (2: The system cannot find the file specified)
+2018/04/09 15:57:58 [notice] 13104#2600: signal process started
+2018/04/09 15:57:58 [error] 13104#2600: OpenEvent("Global\ngx_reload_12460") failed (2: The system cannot find the file specified)
+2018/04/09 16:00:08 [error] 9188#12300: *16 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 16:03:30 [notice] 13088#4932: signal process started
+2018/04/09 16:03:30 [error] 13088#4932: OpenEvent("Global\ngx_reload_12460") failed (2: The system cannot find the file specified)
+2018/04/09 16:16:46 [notice] 7408#11796: signal process started
+2018/04/09 16:16:46 [error] 7408#11796: OpenEvent("Global\ngx_reload_12460") failed (2: The system cannot find the file specified)
+2018/04/09 16:23:52 [emerg] 12852#3568: CreateFile() "D:\liuru_granteern
+ginx-1.10.2\logs\access.log" failed (123: The filename, directory name, or volume label syntax is incorrect)
+2018/04/09 16:24:34 [emerg] 10456#9072: CreateFile() "D:\liuru_granteern
+ginx-1.10.2\logs\access.log" failed (123: The filename, directory name, or volume label syntax is incorrect)
+2018/04/09 16:25:00 [emerg] 10504#11940: CreateFile() "D:\liuru_granteern
+ginx-1.10.2\access.log" failed (123: The filename, directory name, or volume label syntax is incorrect)
+2018/04/09 16:28:56 [notice] 11204#10200: signal process started
+2018/04/09 16:28:56 [error] 11204#10200: OpenEvent("Global\ngx_reload_12460") failed (2: The system cannot find the file specified)
+2018/04/09 16:29:43 [notice] 12580#9712: signal process started
+2018/04/09 16:30:50 [error] 9188#12300: *17 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 16:39:52 [notice] 10620#5760: signal process started
+2018/04/09 16:40:30 [error] 9188#12300: *18 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 16:41:27 [error] 9188#12300: *18 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/a.txt" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a.txt HTTP/1.1", host: "image.imooc.com"
+2018/04/09 16:41:36 [error] 9188#12300: *18 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 16:53:21 [error] 9188#12300: *24 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 17:08:29 [notice] 12492#11872: signal process started
+2018/04/09 17:11:58 [error] 9188#12300: *28 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 17:14:51 [error] 9188#12300: *30 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 17:15:45 [error] 9188#12300: *30 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 17:15:47 [error] 9188#12300: *30 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 17:23:55 [notice] 11692#12204: signal process started
+2018/04/09 17:24:10 [error] 9188#12300: *36 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/a.txt" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a.txt HTTP/1.1", host: "image.imooc.com"
+2018/04/09 17:27:03 [emerg] 13880#14108: FindFirstFile() "D:\liuru_granteern
+ginx-1.10.2\conf\vhost/*.conf" failed (123: The filename, directory name, or volume label syntax is incorrect) in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:95
+2018/04/09 17:27:26 [emerg] 13504#13480: FindFirstFile() "D:\liuru_granteern
+ginx-1.10.2\conf\vhost\*.conf" failed (123: The filename, directory name, or volume label syntax is incorrect) in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:95
+2018/04/09 17:28:12 [notice] 12960#14192: signal process started
+2018/04/09 17:28:23 [error] 9188#12300: *38 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/a.txt" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /a.txt HTTP/1.1", host: "image.imooc.com"
+2018/04/09 17:29:43 [error] 9188#12300: *41 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 17:48:42 [emerg] 9836#14052: "server" directive is not allowed here in D:\liuru_granteern\nginx-1.10.2/conf/vhost/image.imooc.com.conf:1
+2018/04/09 17:48:50 [emerg] 14144#14016: "server" directive is not allowed here in D:\liuru_granteern\nginx-1.10.2/conf/vhost/image.imooc.com.conf:1
+2018/04/09 17:49:17 [notice] 12648#13256: signal process started
+2018/04/09 17:49:48 [error] 9188#12300: *45 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 18:05:52 [notice] 13880#14052: signal process started
+2018/04/09 18:08:00 [notice] 15128#15132: signal process started
+2018/04/09 18:08:20 [error] 9188#12300: *51 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 18:20:07 [emerg] 12660#13752: CreateFile() "D:\liuru_granteern\nginx-1.10.2/conf/image.imooc.com.conf" failed (2: The system cannot find the file specified) in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:95
+2018/04/09 18:34:38 [notice] 13796#6612: signal process started
+2018/04/09 18:37:18 [notice] 12236#4368: signal process started
+2018/04/09 18:37:41 [error] 9188#12300: *53 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 18:43:27 [notice] 13892#14436: signal process started
+2018/04/09 18:43:41 [error] 9188#12300: *59 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 18:44:38 [notice] 14832#11976: signal process started
+2018/04/09 18:44:49 [error] 9188#12300: *61 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 18:48:11 [notice] 12852#14616: signal process started
+2018/04/09 18:48:15 [error] 9188#12300: *63 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 18:48:18 [error] 9188#12300: *63 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 18:50:21 [error] 9188#12300: *65 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/aaa.txt" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa.txt HTTP/1.1", host: "image.imooc.com"
+2018/04/09 18:51:50 [notice] 13488#14112: signal process started
+2018/04/09 18:51:53 [error] 9188#12300: *67 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/aaa.txt" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa.txt HTTP/1.1", host: "image.imooc.com"
+2018/04/09 18:52:03 [error] 9188#12300: *67 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/aaa.txt" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa.txt HTTP/1.1", host: "image.imooc.com"
+2018/04/09 19:03:53 [error] 9188#12300: *71 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 19:08:46 [emerg] 15060#8836: unexpected "}" in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:118
+2018/04/09 19:09:09 [emerg] 12348#14128: unexpected "}" in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:118
+2018/04/09 19:09:14 [emerg] 13328#14948: unexpected "}" in D:\liuru_granteern\nginx-1.10.2/conf/nginx.conf:118
+2018/04/09 19:09:51 [notice] 15268#7964: signal process started
+2018/04/09 19:10:01 [error] 9188#12300: *74 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 19:11:07 [error] 9188#12300: *76 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 19:11:15 [error] 9188#12300: *76 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 19:12:23 [emerg] 6696#15316: invalid number of arguments in "root" directive in D:\liuru_granteern\nginx-1.10.2/conf/vhost/image.imooc.com.conf:16
+2018/04/09 19:13:00 [error] 9188#12300: *78 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 19:13:47 [error] 9188#12300: *78 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 19:14:02 [error] 9188#12300: *78 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
+2018/04/09 19:18:03 [error] 9188#12300: *82 CreateFile() "D:\liuru_granteern\nginx-1.10.2/html/Koala.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /Koala.jpg HTTP/1.1", host: "image.imooc.com"
